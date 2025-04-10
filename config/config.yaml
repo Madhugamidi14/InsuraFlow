@@ -1,0 +1,9 @@
+log_file: logs/pipeline.log
+
+notebooks:
+  cleaning:
+    input: notebooks/cleaning/data_cleaning.ipynb
+    output_template: notebooks/cleaning/data_cleaning_output_{timestamp}.ipynb
+  transforming:
+    input: notebooks/transforming/data_transformer.ipynb
+    output_template: notebooks/transforming/data_transformer_output_{timestamp}.ipynb
