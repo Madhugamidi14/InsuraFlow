@@ -22,3 +22,4 @@ notebooks/*_output_*.ipynb
 # System files
 .DS_Store
 Thumbs.db
+insurance.db
