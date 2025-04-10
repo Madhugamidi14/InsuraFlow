@@ -4,7 +4,6 @@
 ![PySpark](https://img.shields.io/badge/PySpark-Data%20Engineering-orange?style=flat-square&logo=apache-spark)
 ![Apache Spark](https://img.shields.io/badge/Spark-Optimized-green?style=flat-square&logo=apache-spark)
 ![JSON](https://img.shields.io/badge/Data-JSON-blue?style=flat-square)
-![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Madhugamidi14/InsuraFlow)
 
 **InsuraFlow** is a PySpark-based industry-grade data engineering pipeline tailored for cleaning, transforming, and preparing fictitious insurance data for downstream analytics and reporting.
@@ -107,11 +106,6 @@ notebooks:
 - 🔜 Airflow-based orchestration  
 - 🔜 CI/CD + Docker packaging
 
----
-
-## 📝 License
-
-MIT License. Use it freely, learn from it, extend it.
 
 ---
 
