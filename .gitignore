@@ -26,7 +26,10 @@ input/
 output/
 data/
 logs/
-
+*.json
+*.parquet
+*.csv
+*.db
 
 # --------------------
 # Jupyter Notebooks Checkpoints
