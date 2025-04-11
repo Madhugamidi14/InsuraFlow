@@ -6,11 +6,11 @@
 ![JSON](https://img.shields.io/badge/Data-JSON-blue?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Madhugamidi14/InsuraFlow)
 
-**InsuraFlow** is a PySpark-based industry-grade data engineering pipeline tailored for cleaning, transforming, and preparing fictitious insurance data for downstream analytics and reporting.
+## 🚀 Project Overview
+
+**InsuraFlow** is a full-fledged, industry-standard, PySpark-based data engineering pipeline that ingests, cleans, transforms, and prepares insurance data for analytics and visualization. Designed with modularity, scalability, and real-world inconsistencies in mind, this project is perfect for demonstrating end-to-end data engineering capabilities using big data tools.
 
 ---
-
-## 🚀 Overview
 
 Insurance datasets often contain inconsistencies, formatting issues, and require enrichment for meaningful insights. **InsuraFlow** handles:
 
