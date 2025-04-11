@@ -1,0 +1,8 @@
+[project]
+name = "insuraflow_dag"
+version = "0.1.0"
+description = "Dagster orchestration for InsuraFlow PySpark pipeline"
+authors = [{ name = "Sree Madhuchandra Gamidi", email = "madhugamidi1496@gmail.com" }]
+
+[tool.dagster]
+module_name = "insuraflow_dag"

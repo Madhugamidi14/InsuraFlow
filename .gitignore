@@ -1,25 +1,53 @@
-# Ignore virtual environments
+# --------------------
+# Python-related
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+
+# --------------------
+# Virtual Environments
+# --------------------
 .venv/
 env/
 venv/
+ENV/
 
-# Ignore Python cache and logs
-__pycache__/
-*.py[cod]
-*.log
-
-# Ignore Jupyter Notebook checkpoints
+# --------------------
+# Jupyter Notebooks Checkpoints
+# --------------------
 .ipynb_checkpoints/
 
-# Ignore output and input data
-input/
-output/
-logs/
+# --------------------
+# VSCode & IDE files
+# --------------------
+.vscode/
+.idea/
+*.swp
 
-# Ignore notebook outputs (if needed)
-notebooks/*_output_*.ipynb
+# --------------------
+# Dagster / Papermill generated
+# --------------------
+notebooks/*/temp_*.ipynb
+notebooks/*/*_output_*.ipynb
+notebooks/output/*.json
 
+# --------------------
+# Configs and Secrets (optional)
+# --------------------
+config/config.yaml
+*.env
+
+# --------------------
 # System files
+# --------------------
 .DS_Store
 Thumbs.db
 insurance.db
+explore_data.ipynb
+tmp*/
