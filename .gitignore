@@ -19,11 +19,12 @@ venv/
 ENV/
 
 # -----------------
-# Outputs
+# Input/Outputs
 # -----------------
 
-
-*.json
+input/
+output/
+data/
 
 
 # --------------------
