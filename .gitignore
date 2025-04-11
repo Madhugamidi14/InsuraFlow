@@ -18,6 +18,14 @@ env/
 venv/
 ENV/
 
+# -----------------
+# Outputs
+# -----------------
+
+
+*.json
+
+
 # --------------------
 # Jupyter Notebooks Checkpoints
 # --------------------
