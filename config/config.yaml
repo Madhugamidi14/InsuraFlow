@@ -1,37 +1,3 @@
-log_file: logs/pipeline.log
-
-# paths:
-#   input_data: r"D:\Data Engineering Prep\Pyspark\input\insurance_data.json"
-#   cleaned_data: r"D:\Data Engineering Prep\Pyspark\output\cleaned_insurance_data.json"
-#   transformed_data: r"D:\Data Engineering Prep\Pyspark\output\transformed_insurance_data.json"
-
-# notebooks:
-#   cleaning:
-#     input: r"D:\Data Engineering Prep\Pyspark\notebooks\cleaning\data_cleaning.ipynb"
-#     output_template: r"D:\Data Engineering Prep\Pyspark\notebooks\cleaning\data_cleaning_output_{timestamp}.ipynb
-#   transforming:
-#     input: r"D:\Data Engineering Prep\Pyspark\notebooks\transforming\data_transformer.ipynb
-#     output_template: r"D:\Data Engineering Prep\Pyspark\notebooks\transforming\data_transformer_output_{timestamp}.ipynb
-
-
-
-
-# paths:
-#   raw_data: input/insurance_data.json
-#   cleaned_data: output/cleaned_insurance_data.json
-#   transformed_data: output/transformed_insurance_data.json
-# log_file: logs/pipeline.log
-
-# notebooks:
-#   cleaning:
-#     input: notebooks/cleaning/data_cleaning.ipynb
-#     output_template: notebooks/cleaning/data_cleaning_output_{timestamp}.ipynb
-#   transforming:
-#     input: notebooks/transforming/data_transformer.ipynb
-#     output_template: notebooks/transforming/data_transformer_output_{timestamp}.ipynb
-
-
-
 log_file: D:/Data Engineering Prep/Pyspark/logs/pipeline.log
 
 paths:
