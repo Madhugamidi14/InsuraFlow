@@ -13,3 +13,16 @@ notebooks:
   transforming:
     input: D:/Data Engineering Prep/Pyspark/notebooks/transforming/data_transformer.ipynb
     output_temp: D:/Data Engineering Prep/Pyspark/notebooks/transforming/temp_transformed.ipynb
+
+
+postgres:
+  host: db.smovxvfqnwwwwvwpdich.supabase.co
+  port: 5432
+  database: postgres
+  user: postgres
+  password: jI89KkFa3iGyud1F
+  table: insurance_data
+
+database:
+  url: postgresql://postgres:jI89KkFa3iGyud1F@db.smovxvfqnwwwwvwpdich.supabase.co:5432/postgres
+  table_name: insurance_data

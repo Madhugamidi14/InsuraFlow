@@ -125,10 +125,10 @@ Then navigate to `http://localhost:3000` and **materialize the assets**!
 - ✅ Dynamic config via YAML ✅
 - ✅ GitHub integration ✅
 - ✅ Dagster orchestration ✅
-- ⏳ PostgreSQL Ingestion
+- ✅ PostgreSQL Ingestion (Supabase) ✅
 - ⏳ dbt transformations
 - ⏳ Visualization (Superset / Metabase)
-- ⏳ CI/CD and Dockerization
+
 
 ---
 
