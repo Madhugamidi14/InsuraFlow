@@ -126,7 +126,7 @@ Then navigate to `http://localhost:3000` and **materialize the assets**!
 - ✅ GitHub integration ✅
 - ✅ Dagster orchestration ✅
 - ✅ PostgreSQL Ingestion (Supabase) ✅
-- ⏳ dbt transformations
+- ✅ dbt transformations ✅
 - ⏳ Visualization (Superset / Metabase)
 
 
